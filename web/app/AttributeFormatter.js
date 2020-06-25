@@ -269,6 +269,8 @@ Ext.define('Traccar.AttributeFormatter', {
                 return this.hoursFormatter;
             case 'consumption':
                 return this.numberFormatterFactory(Traccar.Style.numberPrecision, Strings.sharedLiterPerHourAbbreviation);
+            case 'wight':
+                return this.numberFormatterFactory(Traccar.Style.numberPrecision, 'kg');
             default:
                 return this.defaultFormatter;
         }

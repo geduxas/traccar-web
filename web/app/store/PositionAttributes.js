@@ -243,6 +243,16 @@ Ext.define('Traccar.store.PositionAttributes', {
         name: Strings.positionDriverUniqueId,
         valueType: 'string',
         dataType: 'driverUniqueId'
+    }, {
+        key: 'cngUsed',
+        name: Strings.positionCngUsed,
+        valueType: 'number',
+        dataType: 'wight'
+    }, {
+        key: 'cngLevel',
+        name: Strings.positionCngLevel,
+        valueType: 'number',
+        dataType: 'percentage'
     }],
 
     getAttributeName: function (key, capitalize) {
