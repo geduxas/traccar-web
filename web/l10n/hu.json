@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Sofőr egyedi azonosítója",
     "positionImage": "Kép",
     "positionAudio": "Hang",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Szerver beállítások",
     "serverZoom": "Nagyítás",
     "serverRegistration": "Regisztráció",

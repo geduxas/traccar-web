@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Sjåførunik ID",
     "positionImage": "Bilete",
     "positionAudio": "Lyd",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Tenarinnstillingar",
     "serverZoom": "Zoom",
     "serverRegistration": "Registering",

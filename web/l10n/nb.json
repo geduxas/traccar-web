@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Sjåførunik ID",
     "positionImage": "Bilde",
     "positionAudio": "Lyd",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Serverinnstillinger",
     "serverZoom": "Zoom",
     "serverRegistration": "Registering",

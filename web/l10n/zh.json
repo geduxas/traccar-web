@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "驾驶员统一ID",
     "positionImage": "图片",
     "positionAudio": "声音",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "服务器设置",
     "serverZoom": "缩放",
     "serverRegistration": "注册",

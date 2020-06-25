@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Driver Unique Id",
     "positionImage": "Slika",
     "positionAudio": "Zvok",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Nastavitve strežnika",
     "serverZoom": "Povečava",
     "serverRegistration": "Registracija",

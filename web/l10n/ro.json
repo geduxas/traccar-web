@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Identificator Unic Sofer",
     "positionImage": "Imagine",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Setări server",
     "serverZoom": "Zoom",
     "serverRegistration": "Înregistrare",

@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Driver Unique Id",
     "positionImage": "Image",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "ການຕັ້ງຄ່າເຊີເວີ້",
     "serverZoom": "ຂະຫຍາຍ +/-",
     "serverRegistration": "ລົງທະບຽນ",

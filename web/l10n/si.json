@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Driver Unique Id",
     "positionImage": "රූප",
     "positionAudio": "ශබ්දය ",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "සේවාදායකයේ සැකසුම්",
     "serverZoom": "විශාලනය",
     "serverRegistration": "ලියාපදිංචි කිරීම",

@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Sürücü İD-si",
     "positionImage": "Şəkil",
     "positionAudio": "səs",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Server tənzimləmələri",
     "serverZoom": "Yaxınlaşma",
     "serverRegistration": "Qeydiyyat",

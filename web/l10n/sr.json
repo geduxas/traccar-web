@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Jedinstveni ID vozača",
     "positionImage": "Slika",
     "positionAudio": "Zvuk",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Podešavanja Servera",
     "serverZoom": "Zumiranje",
     "serverRegistration": "Registracija",

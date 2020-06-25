@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Unikátní ID ridiče",
     "positionImage": "Obraz",
     "positionAudio": "Zvuk",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Nastavení serveru",
     "serverZoom": "Přiblížení",
     "serverRegistration": "Registrace",

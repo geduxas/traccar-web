@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Eindeutige ID des Fahrers",
     "positionImage": "Bild",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Server Einstellungen",
     "serverZoom": "Zoomen",
     "serverRegistration": "Registrierung zulassen",

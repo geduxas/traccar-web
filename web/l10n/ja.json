@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "ドライバー固有ID",
     "positionImage": "画像",
     "positionAudio": "音声",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "サーバー設定",
     "serverZoom": "拡大縮小",
     "serverRegistration": "新規ユーザー登録を許可",

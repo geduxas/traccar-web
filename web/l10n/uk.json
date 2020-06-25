@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "ID водія",
     "positionImage": "Зображення",
     "positionAudio": "Аудіо",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Налаштування сервера",
     "serverZoom": "Наближення",
     "serverRegistration": "Реєстрація",

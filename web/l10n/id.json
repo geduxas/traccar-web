@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "ID Unik Antarmuka",
     "positionImage": "Image",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Semua Pengaturan Server",
     "serverZoom": "Perbesar",
     "serverRegistration": "Pendaftaran",

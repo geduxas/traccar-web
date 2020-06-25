@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Identificador Único Motorista",
     "positionImage": "Imagem",
     "positionAudio": "Áudio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Configurações do Servidor",
     "serverZoom": "Zoom",
     "serverRegistration": "Registro",

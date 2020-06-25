@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Benzersiz Sürücü Kimliği",
     "positionImage": "Görüntü",
     "positionAudio": "Ses",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Sunucu Ayarları",
     "serverZoom": "Yakınlaştırma",
     "serverRegistration": "Kayıt",

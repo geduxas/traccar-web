@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "หมายเลขเฉพาะไดร์เวอร์",
     "positionImage": "รูปภาพ",
     "positionAudio": "เสียง",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "การตั้งค่าเซิร์ฟเวอร์",
     "serverZoom": "ชยาย +/-",
     "serverRegistration": "ลงทะเบียน",

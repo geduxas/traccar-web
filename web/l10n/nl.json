@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Bestuurder uniek ID",
     "positionImage": "Afbeelding",
     "positionAudio": "Geluid",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Serverinstellingen",
     "serverZoom": "Zoom",
     "serverRegistration": "Registratie",

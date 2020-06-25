@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Vairuotojo unikalus ID",
     "positionImage": "Atvaizdas",
     "positionAudio": "Garso įrašas",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Serverio nustatymai",
     "serverZoom": "Priartinimas",
     "serverRegistration": "Registracija",

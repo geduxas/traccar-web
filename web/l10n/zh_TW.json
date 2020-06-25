@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "駕駛唯一識別號碼",
     "positionImage": "Image",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "伺服器設定",
     "serverZoom": "縮放",
     "serverRegistration": "登錄",

@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "இயக்கி தனிப்பட்ட ஐடி",
     "positionImage": "படம் ",
     "positionAudio": "ஒலி ",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "சர்வர் அமைப்பு",
     "serverZoom": "பெரிதாக்கு",
     "serverRegistration": "பதிவுசெய்ய",

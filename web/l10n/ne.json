@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Driver Unique Id",
     "positionImage": "छवि",
     "positionAudio": "ध्वनि",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "सर्भर सेटिंग",
     "serverZoom": "ठुलो बनाउने ",
     "serverRegistration": "दर्ता ",

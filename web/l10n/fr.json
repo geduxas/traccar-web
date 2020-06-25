@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "ID unique du pilote",
     "positionImage": "Image",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Paramètres de serveur",
     "serverZoom": "Zoom",
     "serverRegistration": "Inscription",

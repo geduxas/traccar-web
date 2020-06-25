@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Driver Unique Id",
     "positionImage": "Image",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "ការកំណត់ម៉ាស៊ីនមេ",
     "serverZoom": "ពង្រីក",
     "serverRegistration": "ការចុះឈ្មោះ",

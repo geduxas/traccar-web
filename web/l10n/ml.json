@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Driver Unique Id",
     "positionImage": "Image",
     "positionAudio": "Audio",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Server Settings",
     "serverZoom": "വലുതാക്കിയോ ചെറുതാക്കിയോ കാണിക്കുക",
     "serverRegistration": "രജിസ്ട്രേഷൻ",

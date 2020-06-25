@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Kuljettajan ID",
     "positionImage": "Kuva",
     "positionAudio": "Ääni",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Palvelinasetukset",
     "serverZoom": "Lähennys",
     "serverRegistration": "Rekisteröinti",

@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "معرف فريد للسائق",
     "positionImage": "صورة",
     "positionAudio": "صوت",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "اعدادت الخادم",
     "serverZoom": "تقريب",
     "serverRegistration": "تسجيل",

@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Vadītāja unikālais ID",
     "positionImage": "Attēls",
     "positionAudio": "Skaņa",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Servera iestatījumi ",
     "serverZoom": "Palielinājums",
     "serverRegistration": "Reģistrācija",

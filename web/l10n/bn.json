@@ -225,6 +225,8 @@
     "positionImage": "Image",
     "positionAudio": "Audio",
     "serverTitle": "সার্ভার সেটিংস ",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverZoom": "জুম্",
     "serverRegistration": "নিবন্ধন",
     "serverReadonly": "রিড অনলি",

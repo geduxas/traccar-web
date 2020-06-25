@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "מזהה נהג יחודי",
     "positionImage": "תמונה",
     "positionAudio": "קול",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "הגדרות שרת",
     "serverZoom": "זום",
     "serverRegistration": "הרשמה",

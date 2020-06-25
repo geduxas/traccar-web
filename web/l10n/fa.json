@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "کد شناسایی راننده",
     "positionImage": "تصویر",
     "positionAudio": "صدا",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "تنظیمات سرور",
     "serverZoom": "بزرگنمایی",
     "serverRegistration": "ثبت نام",

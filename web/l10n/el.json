@@ -224,6 +224,8 @@
     "positionDriverUniqueId": "Driver Unique Id",
     "positionImage": "Εικόνα",
     "positionAudio": "Ήχος",
+    "positionCngUsed": "CNG Used",
+    "positionCngLevel": "CNG Level",
     "serverTitle": "Ρυθμίσεις εξυπηρετητή",
     "serverZoom": "Εστίαση",
     "serverRegistration": "Εγγραφή",
