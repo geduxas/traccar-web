@@ -121,7 +121,12 @@ Ext.define('Traccar.store.PositionAttributes', {
         dataType: 'percentage'
     }, {
         key: 'fuel',
-        name: Strings.positionFuel,
+        valueType: 'number',
+        dataType: 'volume'
+
+    }, {
+        key: 'fuelUsed',
+        name: Strings.positionFuelUsed,
         valueType: 'number',
         dataType: 'volume'
     }, {
