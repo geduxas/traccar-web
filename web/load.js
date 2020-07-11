@@ -98,13 +98,20 @@
         languages = window.navigator.languages !== undefined ? window.navigator.languages.slice() : [];
         language = window.navigator.userLanguage || window.navigator.language;
         languages.push(language);
-        languages.push(language.substr(0, 2));
+        languages.push(language.substring(0, 2));
         languages.push(languageDefault);
         for (i = 0; i < languages.length; i++) {
             language = languages[i].replace('-', '_');
             if (language in locale.languages) {
                 locale.language = language;
                 break;
+            }
+            if (language.length > 2) {
+                language = languages[i].substring(0, 2);
+                if (language in locale.languages) {
+                    locale.language = language;
+                    break;
+                }
             }
         }
     }
@@ -149,7 +156,7 @@
     }
 
     extjsVersion = '6.2.0';
-    olVersion = '6.2.1';
+    olVersion = '6.1.1';
     proj4jsVersion = '2.6.0';
 
     if (debugMode) {
