@@ -271,6 +271,7 @@
     "commandEngineResume": "Engine Resume",
     "commandAlarmArm": "Arm Alarm",
     "commandAlarmDisarm": "Disarm Alarm",
+    "commandAlarmDismiss": "Dismiss Alarm",
     "commandSetTimezone": "Set Timezone",
     "commandRequestPhoto": "Request Photo",
     "commandPowerOff": "Power Off Device",
