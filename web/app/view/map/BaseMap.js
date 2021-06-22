@@ -217,6 +217,10 @@ Ext.define('Traccar.view.map.BaseMap', {
                 self.fireEvent('deselectfeature');
             }
         });
+
+        this.map.once('postrender', function () {
+            self.fireEvent('mapready');
+        });
     },
 
     listeners: {
